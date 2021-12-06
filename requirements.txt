@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+sklearn
+imblearn
+keras
+nltk
+distance
+fuzzywuzzy
+networkx==1.11
